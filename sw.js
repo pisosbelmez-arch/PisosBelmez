@@ -1,4 +1,4 @@
-const CACHE = 'pisobelmez-github-v2';
+const CACHE = 'pisobelmez-github-v3';
 const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'icon.svg', 'logo.svg'];
 self.addEventListener('install', event => event.waitUntil(
   caches.open(CACHE).then(cache => cache.addAll(SHELL)).then(() => self.skipWaiting())
