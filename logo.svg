@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="PisoBelmez">
   <rect width="512" height="512" rx="112" fill="#234d42"/>
-  <path d="M110 245 256 124l146 121" fill="none" stroke="#F9F5E9" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M148 228v160c0 17 13 30 30 30h156c17 0 30-13 30-30V228" fill="none" stroke="#F9F5E9" stroke-width="32" stroke-linecap="round"/>
-  <path d="M216 418V321a40 40 0 0 1 80 0v97" fill="#E9745F"/>
-  <circle cx="275" cy="358" r="8" fill="#F9F5E9"/>
+  <path d="M105 179 256 81l151 98" fill="none" stroke="#e9745f" stroke-width="27" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#fbfaf6" fill-rule="evenodd" d="M145 166h118c75 0 119 42 119 102 0 36-18 65-48 82 35 15 56 46 56 84 0 65-47 107-126 107H145V166Zm76 62v91h39c29 0 45-17 45-46 0-28-16-45-45-45h-39Zm0 149v101h42c33 0 50-18 50-50 0-33-17-51-50-51h-42Z" transform="translate(0 -47)"/>
 </svg>
