@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="PisoBelmez">
-  <rect width="512" height="512" rx="112" fill="#234d42"/>
-  <path d="M105 179 256 81l151 98" fill="none" stroke="#e9745f" stroke-width="27" stroke-linecap="round" stroke-linejoin="round"/>
-  <path fill="#fbfaf6" fill-rule="evenodd" d="M145 166h118c75 0 119 42 119 102 0 36-18 65-48 82 35 15 56 46 56 84 0 65-47 107-126 107H145V166Zm76 62v91h39c29 0 45-17 45-46 0-28-16-45-45-45h-39Zm0 149v101h42c33 0 50-18 50-50 0-33-17-51-50-51h-42Z" transform="translate(0 -47)"/>
+  <rect width="512" height="512" rx="108" fill="#234d42"/>
+  <path fill="#fbfaf6" fill-rule="evenodd" d="M143 416V96h119c89 0 145 52 145 132 0 82-56 134-145 134h-41v54h-78Zm78-124h41c43 0 67-23 67-64 0-40-24-62-67-62h-41v126Z"/>
+  <path fill="#e9745f" d="M245 282v-34a28 28 0 0 1 56 0v34h-56Z"/>
 </svg>
